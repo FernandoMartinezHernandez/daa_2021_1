@@ -1,2 +1,2 @@
 # daa_2021_1
-Diseño y analisis de algoritmo 2021
+## Diseño y analisis de algoritmos 2021
